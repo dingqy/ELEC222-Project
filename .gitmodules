@@ -1,0 +1,3 @@
+[submodule "riscv-soc"]
+	path = riscv-soc
+	url = https://github.com/dingqy/riscv-soc.git
