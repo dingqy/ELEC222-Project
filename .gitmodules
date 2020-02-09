@@ -7,3 +7,6 @@
 [submodule "uboot"]
 	path = uboot
 	url = https://github.com/cyf635665843/Uboot.git
+[submodule "xv6-riscv"]
+	path = xv6-riscv
+	url = https://github.com/sggfang/xv6-riscv.git
